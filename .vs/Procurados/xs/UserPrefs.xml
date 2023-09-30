@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C30D3248-5155-41FD-B927-752D7BEEB54E}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Procurados/Controllers/IdwallController.cs">
+    <Files>
+      <File FileName="Procurados/Controllers/IdwallController.cs" Line="16" Column="1" />
+      <File FileName="Procurados/Program.cs" />
+      <File FileName="Procurados/Data/IdwallContext.cs" />
+      <File FileName="Procurados/appsettings.json" />
+      <File FileName="Procurados/Models/IdwallUser.cs" />
+      <File FileName="Procurados/Properties/launchSettings.json" />
+      <File FileName="Procurados/Models/IdwallConfig.cs" />
+      <File FileName="Procurados/appsettings.Development.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Procurados">
+            <Node name="Procurados" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="IdwallController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Procurados PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
